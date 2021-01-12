@@ -1,0 +1,19 @@
+printout
+10 boxes:
+   above boxes: 3.304518326248318
+   below boxes: 2.9045183262483176
+50 boxes:
+   above boxes: 3.1782685110985
+   below boxes: 3.0982685110985
+100 boxes:
+   above boxes: 3.160417031779047
+   below boxes: 3.1204170317790467
+200 boxes:
+   above boxes: 3.1511769448395257
+   below boxes: 3.1311769448395252
+1000 boxes:
+   above boxes: 3.143555466911028
+   below boxes: 3.1395554669110277
+10000 boxes:
+   above boxes: 3.1417914776113167
+   below boxes: 3.1413914776113168
